@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="title_hint">Título</string>
+    <string name="content_hint">Contenido</string>
+    <string name="empty_notes">No hay notas. ¡Agrega una!</string>
+</resources>
